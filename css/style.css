@@ -466,7 +466,7 @@ img {
 
 .intro {
     min-height: 965px;
-    background: url(../image/Hero.jpg) center no-repeat / cover;
+    background-image: url(../image/Hero.jpg);
 }
 
 .title {
